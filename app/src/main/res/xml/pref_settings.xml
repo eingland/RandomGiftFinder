@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+<PreferenceCategory
+    android:title="Search Settings">
+<CheckBoxPreference
+    android:key="parent_filter_preference"
+    android:title="Toggle Search Filters"
+    android:defaultValue="false"/>
+<ListPreference
+    android:key="child_filter_department_preference"
+    android:dependency="parent_filter_preference"
+    android:title="Category"
+    android:defaultValue="1"
+    android:entries="@array/listArrayDepartment"
+    android:entryValues="@array/listValuesDepartment"/>
+<EditTextPreference
+    android:key="child_filter_max_price_preference"
+    android:dependency="parent_filter_preference"
+    android:inputType="numberDecimal"
+    android:title="Maximum Price"
+    android:defaultValue="100"/>
+<EditTextPreference
+    android:key="child_filter_min_price_preference"
+    android:dependency="parent_filter_preference"
+    android:inputType="numberDecimal"
+    android:title="Minimum Price"
+    android:defaultValue="0"/>
+<EditTextPreference
+    android:key="child_filter_static_terms_preference"
+    android:dependency="parent_filter_preference"
+    android:title="Additional Search Terms"
+    android:defaultValue=""/>
+</PreferenceCategory>
+<PreferenceCategory android:title="Advanced Settings">
+    <Preference
+        android:key="clear_history_preference"
+        android:title="Clear History"/>
+</PreferenceCategory>
+</PreferenceScreen>

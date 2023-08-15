@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="listArrayDepartment">
+        <item>Antiques</item>
+        <item>Art</item>
+        <item>Baby</item>
+        <item>Books</item>
+        <item>Business &amp; Industrial</item>
+        <item>Cameras &amp; Photo</item>
+        <item>Cell Phones &amp; Accessories</item>
+        <item>Clothing, Shoes &amp; Accessories</item>
+        <item>Coins &amp; Paper Money</item>
+        <item>Collectibles</item>
+        <item>Computers/Tablets &amp; Networking</item>
+        <item>Consumer Electronics</item>
+        <item>Crafts</item>
+        <item>Dolls &amp; Bears</item>
+        <item>DVDs &amp; Movies</item>
+        <item>Entertainment Memorabilia</item>
+        <item>Everything Else</item>
+        <item>Gift Cards &amp; Coupons</item>
+        <item>Health &amp; Beauty</item>
+        <item>Home &amp; Garden</item>
+        <item>Jewelry &amp; Watches</item>
+        <item>Music</item>
+        <item>Musical Instruments &amp; Gear</item>
+        <item>Pet Supplies</item>
+        <item>Pottery &amp; Glass</item>
+        <item>Real Estate</item>
+        <item>Specialty Services</item>
+        <item>Sporting Goods</item>
+        <item>Sports Mem, Cards &amp; Fan Shop</item>
+        <item>Stamps</item>
+        <item>Tickets &amp; Experiences</item>
+        <item>Toys &amp; Hobbies</item>
+        <item>Travel</item>
+        <item>Video Games &amp; Consoles</item>
+    </string-array>
+
+    <string-array name="listValuesDepartment">
+        <item>20081</item>
+        <item>550</item>
+        <item>2984</item>
+        <item>267</item>
+        <item>12576</item>
+        <item>625</item>
+        <item>15032</item>
+        <item>11450</item>
+        <item>11116</item>
+        <item>1</item>
+        <item>58058</item>
+        <item>293</item>
+        <item>14339</item>
+        <item>237</item>
+        <item>11232</item>
+        <item>45100</item>
+        <item>99</item>
+        <item>172008</item>
+        <item>26395</item>
+        <item>11700</item>
+        <item>281</item>
+        <item>11233</item>
+        <item>619</item>
+        <item>1281</item>
+        <item>870</item>
+        <item>10542</item>
+        <item>316</item>
+        <item>888</item>
+        <item>64482</item>
+        <item>260</item>
+        <item>1305</item>
+        <item>220</item>
+        <item>3252</item>
+        <item>1249</item>
+    </string-array>
+</resources>

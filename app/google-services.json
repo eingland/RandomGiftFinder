@@ -1,0 +1,57 @@
+{
+  "project_info": {
+    "project_number": "773934552931",
+    "firebase_url": "https://random-gift-finder.firebaseio.com",
+    "project_id": "random-gift-finder",
+    "storage_bucket": "random-gift-finder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773934552931:android:2b78c31fc5c6d366",
+        "android_client_info": {
+          "package_name": "com.ericingland.randomgiftfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773934552931-c8rm1smg6uab2l6ekom0umph57ej3vof.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ericingland.randomgiftfinder",
+            "certificate_hash": "e8947b1d5f92e2e9b82518773da45dac47f39f43"
+          }
+        },
+        {
+          "client_id": "773934552931-o0mstijp6738e8if6c1pk6h4u6mh0g9l.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "773934552931-gl5cttre6vh4bfolg720dv3b3hl5juji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0kLOfyur5pUMjkXYQIozGe4xuwhf9poE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-54604214-5"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
